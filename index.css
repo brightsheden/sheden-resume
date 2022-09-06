@@ -167,6 +167,19 @@ ul li a{
         border-radius: 50%;
         width: 50%;
     }
+
+    .social_links{
+        display: flex;
+        justify-content: space-between;
+    
+        margin-bottom: 20px;
+    }
+
+    .social_links > a{
+        margin-right: 20px;
+
+    }
+    
     
     
 }
