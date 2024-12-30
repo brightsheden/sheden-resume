@@ -168,6 +168,13 @@ ul li a{
 
 
     }
+    .header_right > h1{
+        font-size: 20px;
+        line-height: 1em;
+        margin-bottom: 20px;
+    
+    
+    }
     .header_left > img{
         border-radius: 50%;
         width: 50%;
